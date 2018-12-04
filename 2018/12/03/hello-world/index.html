@@ -136,10 +136,11 @@
 
 
   <script type="text/javascript">
-      var host = "xiyangyu.github.io";
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-          window.location.protocol = "https";
+    var targetProtocol = "https:";
+    if (window.location.protocol != targetProtocol)
+        window.location.href = targetProtocol + window.location.href.substring(window.location.protocol.length);
   </script>
+
 </head>
 
 <body itemscope="" itemtype="http://schema.org/WebPage" lang="default">
