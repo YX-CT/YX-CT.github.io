@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[如何优雅地访问更多学术资源]]></title>
     <url>%2F2018%2F12%2F07%2F%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E8%AE%BF%E9%97%AE%E6%9B%B4%E5%A4%9A%E5%AD%A6%E6%9C%AF%E8%B5%84%E6%BA%90%2F</url>
-    <content type="text"><![CDATA[哈哈哈哈&lt; !–more–&gt;哈哈哈]]></content>
+    <content type="text"><![CDATA[哈哈哈哈 &lt; !–more–&gt; 哈哈哈]]></content>
       <tags>
         <tag>Testing</tag>
         <tag>Another Tag</tag>
@@ -12,7 +12,7 @@
   <entry>
     <title><![CDATA[test_my_site]]></title>
     <url>%2F2018%2F12%2F03%2Ftest-my-site%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[emmmmmmmmmm &lt; !–more–&gt; mmmm]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
