@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[年度计划]]></title>
-    <url>%2F%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92%2F</url>
-    <content type="text"><![CDATA[挖个坑慢慢填吧。。。 本站建站过程如何优雅地与世界接轨（更新中……）好用的软件资源合集工具类网站推荐合集好玩有趣的网站推荐合集Windows如何重装原生系统]]></content>
-      <tags>
-        <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[如何优雅地与世界接轨]]></title>
     <url>%2F%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%B8%8E%E4%B8%96%E7%95%8C%E6%8E%A5%E8%BD%A8%2F</url>
     <content type="text"><![CDATA[一般情况下，我们需要的国外网站都是可以访问的，例如微软、苹果、Adobe、NI等，但是当我们需要检索一些特殊资料时，发现仅仅使用百度、搜狗等国内搜索引擎就会发现结果往往并不能让人满意，本文就这个问题向大家介绍如何优雅地与世界接轨。 基础篇使用必应国际版，搜索到的结果还是很好的。]]></content>
@@ -18,6 +10,14 @@
       <tags>
         <tag>优雅</tag>
         <tag>探索世界</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[年度计划]]></title>
+    <url>%2F%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92%2F</url>
+    <content type="text"><![CDATA[挖个坑慢慢填吧。。。 本站建站过程如何优雅地与世界接轨（更新中……）好用的软件资源合集工具类网站推荐合集好玩有趣的网站推荐合集Windows如何重装原生系统]]></content>
+      <tags>
+        <tag>计划</tag>
       </tags>
   </entry>
 </search>
